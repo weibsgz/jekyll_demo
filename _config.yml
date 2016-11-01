@@ -21,6 +21,8 @@ textile_ext:   textile
 
 excerpt_separator: "\n\n"
 
+encoding: UTF-8
+
 safe:        false
 watch:       false    # deprecated
 server:      false    # deprecated
